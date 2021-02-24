@@ -1,0 +1,8 @@
+pandas
+numpy
+glob
+os
+re
+matplotlib
+scipy
+zipfile
