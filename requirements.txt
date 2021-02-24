@@ -1,8 +1,5 @@
 pandas
 numpy
-glob
-os
-re
-matplotlib
+matplotlib.pyplot
 scipy
 zipfile
